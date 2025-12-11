@@ -54,7 +54,7 @@ cupidcr4wl **will** search and return results for platforms that host content fo
 &nbsp;&nbsp;&nbsp;&nbsp;```python3 cc.py -h``` or ```python3 cc.py --help```
 
 ```
-usage: cc.py [-h] [-p PHONENUMBER] [-u USERNAME] [--export-results] [--debug]
+usage: cc.py [-h] [-p PHONENUMBER] [-u @vincentgunneson] [--export-results] [--debug]
              [--username-sites] [--phone-number-sites]
 
 A tool for checking if a username or phone number exists across various adult content
